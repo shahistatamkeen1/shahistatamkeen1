@@ -34,57 +34,10 @@ Currently focused on **AI + Full Stack + Cloud**, building applications like **3
 
 ---
 
-## 🚀 Featured Projects
+## 🔄 Recently Updated on GitHub
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ 3D Point Cloud QA System
-AI-powered construction QA platform for detecting deviations in 3D scan data.
-
-**Tech:** React, Three.js, Open3D, FastAPI  
-
-👉 https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System  
-👉 https://3-d-point-cloud-qa-system.vercel.app/
-
-</td>
-<td width="50%">
-
-### ☁️ AI Cloud Monitoring Platform
-Real-time cloud monitoring system with anomaly detection and alerts.
-
-**Tech:** React, FastAPI, Azure  
-
-👉 https://github.com/shahistatamkeen1/AI_powered_cloud_monitoring_and_security_platform
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛍️ MOH by Amiksha
-Full-stack fashion platform with admin dashboard and dynamic product system.
-
-**Tech:** React, FastAPI, PostgreSQL  
-
-👉 https://github.com/shahistatamkeen1/MOH-by-Amiksha
-
-</td>
-<td width="50%">
-
-### 💰 Banking Risk Prediction
-Machine learning + Power BI dashboard for loan risk analysis.
-
-**Tech:** Python, ML, Power BI  
-
-👉 https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis
-
-</td>
-</tr>
-</table>
-
+<!-- RECENT-PROJECTS:START -->
+<!-- RECENT-PROJECTS:END -->
 ---
 
 ## 📊 GitHub Stats
