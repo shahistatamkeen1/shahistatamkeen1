@@ -15,10 +15,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README with recent GitHub activity
+      - name: Update README with recent project cards
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "RECENT-PROJECTS"
           feed_list: "https://github.com/shahistatamkeen1.atom"
-          max_post_count: 5
-          template: "- [$title]($url)"
+          max_post_count: 4
+          template: |
+            <table>
+            <tr>
+            <td width="50%">
+
+            ### 🔄 $title
+
+            Recently updated GitHub activity.
+
+            [View Update]($url)
+
+            </td>
+            </tr>
+            </table>
