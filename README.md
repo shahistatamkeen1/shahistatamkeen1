@@ -34,57 +34,79 @@ Currently focused on **AI + Full Stack + Cloud**, building applications like **3
 
 ---
 
-## 🔄 Recently Updated on GitHub
+## 🚀 Recent & Active Projects
 
-<!-- RECENT-PROJECTS:START --><table>
+<table>
 <tr>
 <td width="50%">
 
-### 🔄 shahistatamkeen1 pushed shahistatamkeen1
+### 🏗️ 3D Point Cloud QA System 🟢 Active
+AI-powered construction QA platform for detecting deviations in 3D scan data.
 
-Recently updated GitHub activity.
+**Tech:** React, Three.js, Open3D, FastAPI  
 
-[View Update](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/48c57be85e...010bc6f380)
+👉 [GitHub](https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System)  
+👉 [Live Demo](https://3-d-point-cloud-qa-system.vercel.app/)
+
+</td>
+<td width="50%">
+
+### ☁️ AI Cloud Monitoring Platform 🟡 In Progress
+AI-powered cloud monitoring system for tracking system metrics, detecting anomalies, and generating alerts.
+
+**Tech:** React, FastAPI, Azure, Python  
+
+👉 [GitHub](https://github.com/shahistatamkeen1/AI_powered_cloud_monitoring_and_security_platform)
 
 </td>
 </tr>
-</table><table>
+
 <tr>
 <td width="50%">
 
-### 🔄 shahistatamkeen1 pushed shahistatamkeen1
+### 🛍️ MOH by Amiksha 🔵 Recently Built
+Full-stack fashion platform with admin dashboard, product management, image uploads, and customer sections.
 
-Recently updated GitHub activity.
+**Tech:** React, FastAPI, PostgreSQL  
 
-[View Update](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/88a362766f...48c57be85e)
+👉 [GitHub](https://github.com/shahistatamkeen1/MOH-by-Amiksha)
+
+</td>
+<td width="50%">
+
+### 💰 Banking Risk Prediction 🔵 Recently Built
+Machine learning and Power BI project for loan risk prediction, customer segmentation, and risk analytics.
+
+**Tech:** Python, Power BI, Machine Learning  
+
+👉 [GitHub](https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis)
 
 </td>
 </tr>
-</table><table>
+
 <tr>
 <td width="50%">
 
-### 🔄 shahistatamkeen1 pushed shahistatamkeen1
+### 🏥 Patient Readmission Dashboard 🔵 Recently Built
+Machine learning dashboard to predict 30-day patient readmission risk and visualize healthcare insights.
 
-Recently updated GitHub activity.
+**Tech:** Python, Streamlit, Machine Learning  
 
-[View Update](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/a7d8f078f0...d0c529c9b2)
+👉 [GitHub](https://github.com/shahistatamkeen1/patient-readmission-dashboard)
 
 </td>
-</tr>
-</table><table>
-<tr>
 <td width="50%">
 
-### 🔄 shahistatamkeen1 pushed shahistatamkeen1
+### 🤖 CareerPulse / Job Tracker 🟡 In Progress
+AI-powered job application platform for resume matching, job tracking, and career workflow automation.
 
-Recently updated GitHub activity.
+**Tech:** React, Python, OpenAI API  
 
-[View Update](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/10e42386bd...a7d8f078f0)
+👉 [GitHub](https://github.com/shahistatamkeen1/Job_Tracker)
 
 </td>
 </tr>
-</table><!-- RECENT-PROJECTS:END -->
+</table>
 
 ## 📊 GitHub Stats
 
