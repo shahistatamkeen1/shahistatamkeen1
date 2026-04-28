@@ -80,6 +80,7 @@ Machine learning and Power BI project for loan risk prediction, customer segment
 **Tech:** Python, Power BI, Machine Learning  
 
 👉 [GitHub](https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis)
+👉 [LiveDemo](https://banking-customer-risk-loan-analysis-dashboard.streamlit.app/?)
 
 </td>
 </tr>
@@ -93,6 +94,7 @@ Machine learning dashboard to predict 30-day patient readmission risk and visual
 **Tech:** Python, Streamlit, Machine Learning  
 
 👉 [GitHub](https://github.com/shahistatamkeen1/patient-readmission-dashboard)
+👉 [LiveDemo](https://patient-readmission-dashboard-qvdtrqx9nhehc8nkmlxq7p.streamlit.app)
 
 </td>
 <td width="50%">
