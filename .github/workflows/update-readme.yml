@@ -1,0 +1,24 @@
+name: Update recent projects
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with recent GitHub activity
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "RECENT-PROJECTS"
+          feed_list: "https://github.com/shahistatamkeen1.atom"
+          max_post_count: 5
+          template: "- [$title]($url)"
