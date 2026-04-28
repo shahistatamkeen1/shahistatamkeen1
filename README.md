@@ -36,8 +36,8 @@ Currently focused on **AI + Full Stack + Cloud**, building applications like **3
 
 ## 🔄 Recently Updated on GitHub
 
-<!-- RECENT-PROJECTS:START -->- [shahistatamkeen1 pushed shahistatamkeen1](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/a7d8f078f0...d0c529c9b2)- [shahistatamkeen1 pushed shahistatamkeen1](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/10e42386bd...a7d8f078f0)- [shahistatamkeen1 pushed 3D_Point_Cloud_QA_System](https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System/compare/65dc33ad96...3389e0e949)- [shahistatamkeen1 pushed 3D_Point_Cloud_QA_System](https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System/compare/6b4bd10082...65dc33ad96)- [shahistatamkeen1 pushed shahistatamkeen1](https://github.com/shahistatamkeen1/shahistatamkeen1/compare/ec29ffaf53...10e42386bd)<!-- RECENT-PROJECTS:END -->
----
+<!-- RECENT-PROJECTS:START -->
+<!-- RECENT-PROJECTS:END -->
 
 ## 📊 GitHub Stats
 
