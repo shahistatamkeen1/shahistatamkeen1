@@ -42,10 +42,10 @@ I enjoy transforming research concepts into production-ready AI applications tha
 
 ---
 
-## 🛠️ Tech Stack
+<h1 align="center">🧠 AI & Engineering Stack</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,flask,dotnet,postgres,mongodb,azure,aws,gcp,docker,kubernetes,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,postgres,mongodb,azure,aws,docker,kubernetes,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -53,8 +53,15 @@ I enjoy transforming research concepts into production-ready AI applications tha
   <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge" />
 </p>
 
 ---
