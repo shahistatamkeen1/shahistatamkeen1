@@ -1,7 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:A78BFA&height=220&section=header&text=Shahista%20Tamkeen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMs%20%7C%20RAG&descAlignY=58&descSize=18)
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:A78BFA&height=260&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=58&descSize=20"/>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Engineer;Building+LLM+and+RAG+Applications;Multi-Agent+Systems+%7C+LangGraph+%7C+MLOps;Python+%7C+FastAPI+%7C+Azure+AI+%7C+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1100&lines=Generative+AI+Engineer;Machine+Learning+Engineer;Building+LLM+and+RAG+Applications;Agentic+AI+and+Multi-Agent+Systems;Python+%7C+FastAPI+%7C+Azure+AI+%7C+Cloud" />
 </p>
 
 <p align="center">
@@ -11,7 +15,7 @@
   <a href="https://shahistatamkeen1.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:shahistatamkeen123@gmail.com">
+  <a href="mailto:stamkeen0506@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -133,15 +137,37 @@ Healthcare analytics solution using machine learning models to predict patient r
 
 ---
 
-# 📜 Certifications
+<h1 align="center">🏆 Certifications & Publications</h1>
 
-🏆 Google Cloud Certified Professional Java Fundamentals
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20101-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google-Cloud%20Certified-4285F4?style=flat-square" />
+  <img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-1261FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Oracle-Java%20Fundamentals-F80000?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++%20Institute-CLA%20Programming%20in%20C-00599C?style=flat-square" />
+</p>
 
-🏆 Career Essentials in Data Analysis (Microsoft & LinkedIn)
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Data%20Analysis-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Publication-Brain%20Age%20Research-16A34A?style=flat-square" />
+</p>
 
-🏆 Data Analysis with Python
+<p align="center">
 
-🏆 Research Academic Paper Certification
+Claude 101 • Anthropic (2026) <br>
+AI Fluency: Framework & Foundations • Anthropic (2026) <br>
+Google Cloud Certified Professional • Google (2024) <br>
+Data Analysis with Python • IBM (2025) <br>
+Career Essentials in Data Analysis • Microsoft & LinkedIn (2025) <br>
+Java Fundamentals • Oracle (2022) <br>
+CLA: Programming Essentials in C • C++ Institute (2022)
+
+</p>
+
+<p align="center">
+📖 <strong>Publication:</strong> Comparative Analysis of Brain Age and Brain Disease
+</p>
 
 ---
 
