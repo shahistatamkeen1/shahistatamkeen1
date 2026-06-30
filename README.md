@@ -135,30 +135,13 @@ Healthcare analytics solution using machine learning models to predict patient r
 
 # 🏆 Certifications & Publications
 
-<p align="center">
-
 🥇 Google Cloud Certified Professional Java Fundamentals
-
-<br><br>
-
 🥇 Career Essentials in Data Analysis
 (Microsoft & LinkedIn)
-
-<br><br>
-
 🥇 Data Analysis with Python
-
-<br><br>
-
 🥇 Research Academic Paper Certificate
-
-<br><br>
-
 📖 Publication:
 Survey on Comparison of Brain Age with Human Age
-
-</p>
-
 ---
 
 # 🎓 Education
