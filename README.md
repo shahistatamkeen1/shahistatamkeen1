@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:A78BFA&height=220&section=header&text=Shahista%20Tamkeen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMs%20%7C%20RAG&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:A78BFA&height=220&section=header&text=Shahista%20Tamkeen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20Multi-Agent%20Systems%20%7C%20MLOps&descAlignY=58&descSize=18)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Engineer;Building+LLM+and+RAG+Applications;Multi-Agent+Systems+%7C+LangGraph+%7C+MLOps;Python+%7C+FastAPI+%7C+Azure+AI+%7C+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Engineer;Building+LLM+and+RAG+Applications;Multi-Agent+Systems+with+LangGraph;Python+%7C+FastAPI+%7C+Azure+AI+%7C+MLOps" />
 </p>
 
 <p align="center">
@@ -18,27 +18,39 @@
 
 ---
 
-# 👋 Hi, I'm Shahista
+<h1 align="center">👋 Hi, I'm Shahista</h1>
 
-Machine Learning Engineer passionate about building intelligent systems using Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), Multi-Agent Systems, and Cloud-native AI architectures.
+<p align="center">
+Machine Learning Engineer passionate about building intelligent systems using Generative AI, Large Language Models, Retrieval-Augmented Generation, Multi-Agent Systems, and Cloud-native AI architectures.
+</p>
 
-I enjoy transforming research concepts into production-ready AI applications that solve real-world business problems.
-
----
-
-## 🧠 Core Expertise
-
-- 🤖 Generative AI & LLM Applications
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🧩 Multi-Agent Systems & LangGraph
-- 📊 Machine Learning & Predictive Analytics
-- ☁️ Cloud AI & MLOps
-- ⚡ Full Stack AI Development
-- 🚀 FastAPI & Scalable AI APIs
+<p align="center">
+I enjoy transforming research concepts into production-ready AI applications that solve real-world problems across healthcare, cloud infrastructure, construction technology, financial analytics, and intelligent automation.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<h1 align="center">🧠 Core Expertise</h1>
+
+<p align="center">
+🤖 Generative AI & LLM Applications
+<br>
+🔍 Retrieval-Augmented Generation
+<br>
+🧩 Multi-Agent Systems & LangGraph
+<br>
+📊 Machine Learning & Predictive Analytics
+<br>
+☁️ Cloud AI & MLOps
+<br>
+⚡ Full Stack AI Development
+<br>
+🚀 FastAPI & Scalable AI APIs
+</p>
+
+---
+
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,flask,dotnet,postgres,mongodb,azure,aws,gcp,docker,kubernetes,git,github,vscode" />
@@ -55,29 +67,31 @@ I enjoy transforming research concepts into production-ready AI applications tha
 
 ---
 
-# 🚀 Featured Projects
+<h1 align="center">🚀 Featured Projects</h1>
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 My Digital Twin
-Multi-agent AI platform that acts as a personalized digital twin for career growth, learning, and decision support.
+
+Multi-agent AI platform that acts as a personalized digital twin for career growth, learning, interview preparation, job discovery, and decision support.
 
 **Tech:** LangGraph, OpenAI, FastAPI, React, PostgreSQL, Azure
 
-👉 https://github.com/shahistatamkeen1/my_digital_twin
+👉 [GitHub](https://github.com/shahistatamkeen1/my_digital_twin)
 
 </td>
 
 <td width="50%">
 
 ### ☁️ AI Cloud Monitoring Platform
-Enterprise cloud monitoring platform with AI-powered recommendations, anomaly detection, security monitoring, and intelligent alerts.
+
+Enterprise cloud monitoring platform with AI-powered recommendations, anomaly detection, security monitoring, role-based dashboards, and intelligent alerts.
 
 **Tech:** React, FastAPI, Azure, PostgreSQL, Docker
 
-👉 https://github.com/shahistatamkeen1/AI_powered_cloud_monitoring_and_security_platform
+👉 [GitHub](https://github.com/shahistatamkeen1/AI_powered_cloud_monitoring_and_security_platform)
 
 </td>
 </tr>
@@ -86,22 +100,25 @@ Enterprise cloud monitoring platform with AI-powered recommendations, anomaly de
 <td width="50%">
 
 ### 🏗️ 3D Point Cloud QA System
-AI-powered quality assurance system for construction projects using point cloud analysis and deviation detection.
 
-**Tech:** Open3D, Three.js, FastAPI, React
+AI-powered construction quality assurance system using 3D scan analysis, point cloud comparison, deviation detection, and visual inspection workflows.
 
-👉 https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System
+**Tech:** Open3D, Three.js, FastAPI, React, Python
+
+👉 [GitHub](https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System)  
+👉 [Live Demo](https://3-d-point-cloud-qa-system.vercel.app/)
 
 </td>
 
 <td width="50%">
 
 ### 🤖 CareerPulse AI Job Tracker
-AI-powered job search assistant with resume matching, ATS scoring, job tracking, and career workflow automation.
+
+AI-powered job search assistant with resume matching, ATS scoring, job tracking, email parsing, and career workflow automation.
 
 **Tech:** React, Python, OpenAI API, FastAPI
 
-👉 https://github.com/shahistatamkeen1/Job_Tracker
+👉 [GitHub](https://github.com/shahistatamkeen1/Job_Tracker)
 
 </td>
 </tr>
@@ -110,22 +127,26 @@ AI-powered job search assistant with resume matching, ATS scoring, job tracking,
 <td width="50%">
 
 ### 💰 Banking Risk Analytics
-Machine learning platform for loan risk prediction, customer segmentation, and business intelligence reporting.
 
-**Tech:** Python, Power BI, Machine Learning
+Machine learning and analytics platform for loan risk prediction, customer segmentation, risk scoring, and business intelligence reporting.
 
-👉 https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis
+**Tech:** Python, Power BI, Machine Learning, Streamlit
+
+👉 [GitHub](https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis)  
+👉 [Live Demo](https://banking-customer-risk-loan-analysis-dashboard.streamlit.app/)
 
 </td>
 
 <td width="50%">
 
 ### 🏥 Patient Readmission Prediction
-Healthcare analytics solution using machine learning models to predict patient readmission risk.
 
-**Tech:** Python, Streamlit, Scikit-Learn
+Healthcare analytics solution using machine learning models to predict 30-day patient readmission risk and visualize healthcare insights.
 
-👉 https://github.com/shahistatamkeen1/patient-readmission-dashboard
+**Tech:** Python, Streamlit, Scikit-Learn, Pandas
+
+👉 [GitHub](https://github.com/shahistatamkeen1/patient-readmission-dashboard)  
+👉 [Live Demo](https://patient-readmission-dashboard-qvdtrqx9nhehc8nkmlxq7p.streamlit.app)
 
 </td>
 </tr>
@@ -133,36 +154,53 @@ Healthcare analytics solution using machine learning models to predict patient r
 
 ---
 
-# 📜 Certifications
+<h1 align="center">🏆 Certifications & Publications</h1>
 
-🏆 Google Cloud Certified Professional Java Fundamentals
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft-Data%20Analysis-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-Publication-purple?style=for-the-badge"/>
+</p>
 
-🏆 Career Essentials in Data Analysis (Microsoft & LinkedIn)
-
-🏆 Data Analysis with Python
-
-🏆 Research Academic Paper Certification
+<p align="center">
+🥇 Google Cloud Certified Professional Java Fundamentals
+<br><br>
+🥇 Career Essentials in Data Analysis by Microsoft and LinkedIn
+<br><br>
+🥇 Data Analysis with Python
+<br><br>
+🥇 Research Academic Paper Certificate
+<br><br>
+📖 Publication: Survey on Comparison of Brain Age with Human Age
+</p>
 
 ---
 
-# 🎓 Education
+<h1 align="center">🎓 Education</h1>
 
-### Elmhurst University
-Master's in Computer Science & Information Technology
-
-### Mahatma Gandhi Institute of Technology
+<p align="center">
+<strong>Elmhurst University</strong>
+<br>
+Master's Degree, Computer Science and Information Technology
+<br>
+August 2024 – May 2026
+<br><br>
+<strong>Mahatma Gandhi Institute of Technology</strong>
+<br>
 Bachelor of Technology
+<br>
+August 2020 – July 2024
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahistatamkeen1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahistatamkeen1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shahistatamkeen1&theme=tokyonight&hide_border=true" />
@@ -170,25 +208,41 @@ Bachelor of Technology
 
 ---
 
-## 📈 Contribution Graph
+<h1 align="center">📈 Contribution Graph</h1>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahistatamkeen1&theme=tokyo-night&hide_border=true" />
-
----
-
-# 🔭 Currently Working On
-
-- Multi-Agent AI Systems with LangGraph
-- Production-Ready RAG Applications
-- AI-Powered Digital Twin Platform
-- Cloud-Native MLOps Workflows
-- Enterprise AI Solutions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahistatamkeen1&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 📫 Let's Connect
+<h1 align="center">🔭 Currently Working On</h1>
 
-- LinkedIn: https://www.linkedin.com/in/shahista-tamkeen/
-- Portfolio: https://shahistatamkeen1.github.io/portfolio/
+<p align="center">
+🤖 Multi-Agent AI Systems using LangGraph
+<br><br>
+🧠 AI Digital Twin Platform
+<br><br>
+📚 Retrieval-Augmented Generation Applications
+<br><br>
+☁️ Cloud-Native AI & MLOps Workflows
+<br><br>
+🚀 Enterprise Generative AI Applications
+</p>
 
+---
+
+<h1 align="center">📫 Let's Connect</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahista-tamkeen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahista%20Tamkeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://shahistatamkeen1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
 If you're building innovative AI products, exploring Generative AI, or hiring AI Engineers, let's connect.
+</p>
