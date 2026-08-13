@@ -1,400 +1,286 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=270&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20Fraud%20Detection%20%7C%20RAG%20%7C%20MLOps&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071F1C,48:0F766E,100:F59E0B&height=280&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Enterprise%20RAG%20%7C%20Production%20ML&descAlignY=57&descSize=19" alt="Shahista Tamkeen - AI Engineer" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1100&lines=Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Fraud+Detection+%7C+Predictive+Analytics+%7C+Graph+Neural+Networks;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+PyTorch+%7C+Apache+Spark+%7C+FastAPI+%7C+Azure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1100&lines=Architecting+Autonomous+Agentic+AI+Systems;Building+Hybrid+RAG+and+GraphRAG+Pipelines;Deploying+Low-Latency+Production+ML;Engineering+Multi-Cloud+Data+Platforms;Python+%7C+LangGraph+%7C+PyTorch+%7C+AWS+%7C+GCP+%7C+Azure" alt="AI engineering specialties" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahista-tamkeen/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahista%20Tamkeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://shahistatamkeen1.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:stamkeen0506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/shahista-tamkeen/"><img src="https://img.shields.io/badge/LinkedIn-Shahista%20Tamkeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shahistatamkeen1.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-071F1C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="./Shahista_AI_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-View%20PDF-F59E0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" /></a>
+  <a href="mailto:shahistatamkeen76@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahistatamkeen1&label=Profile%20Views&color=7C3AED&style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Illinois%2C%20USA-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="Illinois, USA" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-F59E0B?style=flat-square&logo=target&logoColor=white" alt="3+ years experience" />
+  <img src="https://komarev.com/ghpvc/?username=shahistatamkeen1&label=Profile%20Views&color=0F766E&style=flat-square" alt="Profile views" />
 </p>
 
----
+About Me
 
-# 👋 About Me
+I am an AI and Machine Learning Engineer with 3+ years of experience architecting autonomous agentic AI systems, enterprise RAG pipelines, and high-throughput production ML across the BFSI and healthcare sectors.
 
-I am a **Machine Learning Engineer with 3+ years of experience** designing, building, and deploying production-ready AI applications across fraud detection, predictive analytics, Generative AI, and intelligent automation.
+My work connects research-grade AI with dependable enterprise engineering: multi-agent orchestration, hybrid retrieval, GraphRAG, multimodal document intelligence, streaming feature pipelines, low-latency inference, and Kubernetes-based delivery across AWS, GCP, and Azure.
 
-My work focuses on developing scalable machine learning models, Retrieval-Augmented Generation applications, Graph Neural Networks, and cloud-native MLOps solutions using technologies such as **Python, PyTorch, Apache Spark, LangChain, LangGraph, FastAPI, and Microsoft Azure**.
+I focus on systems that create measurable outcomes - from reducing compliance audit cycles from 5 days to 45 minutes to cutting enterprise document turnaround by 82%.
 
-I combine machine learning expertise with a strong software engineering background to build reliable, explainable, and scalable AI solutions for enterprise applications.
+Engineering Impact
 
----
+<table>
+  <tr>
+    <td align="center"><strong>5 days -> 45 min</strong><br/><sub>Compliance audit cycle</sub></td>
+    <td align="center"><strong>34%</strong><br/><sub>Higher GraphRAG retrieval precision</sub></td>
+    <td align="center"><strong>5 TB/day</strong><br/><sub>Market data processing scale</sub></td>
+    <td align="center"><strong>10M+/day</strong><br/><sub>Streaming transactions</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>18% -> 6.2%</strong><br/><sub>False-positive reduction</sub></td>
+    <td align="center"><strong>&lt;35 ms</strong><br/><sub>FastAPI inference latency</sub></td>
+    <td align="center"><strong>99.8%</strong><br/><sub>PHI/PII redaction precision</sub></td>
+    <td align="center"><strong>$3.1M</strong><br/><sub>Inventory cost reduction</sub></td>
+  </tr>
+</table>
 
-## 🧠 Core Expertise
+Core Expertise
 
-* 🤖 Machine Learning and Predictive Analytics
-* 🛡️ Fraud Detection and Financial Risk Modeling
-* 🕸️ Graph Neural Networks with PyTorch Geometric
-* 🧠 Generative AI and Large Language Models
-* 🔍 Retrieval-Augmented Generation
-* 🧩 AI Agents and Multi-Agent Systems
-* 📊 Explainable AI with SHAP and LIME
-* ⚡ FastAPI Model Serving and REST APIs
-* 🔄 Apache Spark and Distributed Data Processing
-* ☁️ Cloud-Native AI and MLOps
-* 🚀 Docker, Kubernetes, MLflow, and CI/CD
+Autonomous agentic AI and multi-agent orchestration
 
----
+Enterprise RAG, hybrid search, and GraphRAG
 
-<h1 align="center">🛠️ Technical Stack</h1>
+Low-latency machine learning inference
 
-### Programming Languages
+Multimodal document intelligence and NER
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+Financial risk modeling and transaction intelligence
+
+Time-series forecasting and statistical optimization
+
+Distributed data engineering and event-driven ETL
+
+Multi-cloud AI platforms and production MLOps
+
+Technical Stack
+
+Programming and ML Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,fastapi" alt="Python, Java, C++, TensorFlow, PyTorch, FastAPI" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EC5B2A?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM" />
 </p>
 
-### Machine Learning and Deep Learning
+Agentic AI and LLM Systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EC5B2A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge" alt="AutoGen" />
+  <img src="https://img.shields.io/badge/CrewAI-DC2626?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/vLLM-0F766E?style=for-the-badge" alt="vLLM" />
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-F59E0B?style=for-the-badge" alt="PEFT LoRA" />
+  <img src="https://img.shields.io/badge/DeepEval-0891B2?style=for-the-badge" alt="DeepEval" />
+  <img src="https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NeMo Guardrails" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CNNs-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RNNs-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LSTMs-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SHAP-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LIME-16A34A?style=for-the-badge" />
+Vector Search and RAG Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Neo4j%20GraphRAG-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j GraphRAG" />
+  <img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/BGE%20Embeddings-7C3AED?style=for-the-badge" alt="BGE Embeddings" />
+  <img src="https://img.shields.io/badge/Cohere%20Rerank-39594D?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere Rerank" />
+  <img src="https://img.shields.io/badge/BM25-0F766E?style=for-the-badge" alt="BM25" />
+  <img src="https://img.shields.io/badge/Hybrid%20Search-F59E0B?style=for-the-badge" alt="Hybrid Search" />
 </p>
 
-### Generative AI and LLMs
+Machine Learning and Data Science
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/LayoutLMv3-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="LayoutLMv3" />
+  <img src="https://img.shields.io/badge/Temporal%20Fusion%20Transformer-7C3AED?style=for-the-badge" alt="Temporal Fusion Transformer" />
+  <img src="https://img.shields.io/badge/Qwen2--VL-2563EB?style=for-the-badge" alt="Qwen2-VL" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/SHAP-059669?style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/badge/SMOTE--NC-0891B2?style=for-the-badge" alt="SMOTE-NC" />
+  <img src="https://img.shields.io/badge/Optuna-0F172A?style=for-the-badge" alt="Optuna" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Function%20Calling-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge" />
+Data Engineering, Cloud, and MLOps
+
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Beam-FBBC04?style=for-the-badge&logo=apache&logoColor=black" alt="Apache Beam" />
+  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,redis,postgres,git,githubactions" alt="AWS, GCP, Azure, Docker, Kubernetes, Redis, PostgreSQL, Git, GitHub Actions" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
-### Backend and Software Engineering
+Professional Experience
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode" />
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
+AI Engineer - Northern Trust
 
-### Data Engineering and Databases
+Jan 2026 - Present | USA
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark%20Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
+Architected an autonomous compliance audit framework with Python, LangGraph, and AWS Bedrock for institutional fund mandates and SEC disclosures.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+Built hybrid RAG with pgvector, Amazon Aurora, OpenSearch, and BGE Embeddings, reducing audit cycles from 5 days to 45 minutes.
 
-### Cloud, MLOps, and Deployment
+Developed serverless ETL with AWS Glue, Lambda, PySpark, and S3 for portfolio trade logs and regulatory filings.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions" />
-</p>
+Created an AutoGen financial-analysis system on GCP Vertex AI for earnings, sentiment, and risk intelligence.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Monitoring-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI%20Model%20Serving-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge" />
-</p>
+Implemented Neo4j GraphRAG and GCP Vector Search, improving quantitative signal retrieval precision by 34%.
 
-### Data Visualization
+Engineered Java and Kafka processing services that scale to 5 TB of daily market data.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-</p>
+Machine Learning Engineer - Mphasis
 
----
+Nov 2021 - Jul 2024 | India
 
-# 💼 Professional Experience
+Built Python, SQL, PySpark, Kafka, and Redis pipelines for 10M+ daily transactions.
 
-## AI / Machine Learning Engineer — AIG
+Deployed XGBoost and LightGBM ensembles that reduced false positives from 18% to 6.2% while maintaining sub-35 ms FastAPI inference.
 
-**January 2026 – Present | United States**
+Fine-tuned LayoutLMv3 for multimodal document extraction and PHI/PII redaction with 99.8% precision.
 
-* Developed an XGBoost-based fraud detection solution using Python and Apache Spark, improving fraud detection accuracy by **22%** across enterprise financial datasets.
-* Engineered Graph Neural Network models with PyTorch Geometric to analyze relationships among customers, merchants, and devices, improving complex fraud-pattern detection by **18%**.
-* Built a Retrieval-Augmented Generation platform using LangChain, LangGraph, Azure OpenAI, and Pinecone, reducing fraud investigation time by **30%**.
-* Designed scalable FastAPI inference services to expose machine learning models through REST APIs.
-* Standardized feature engineering, model validation, and experiment-tracking workflows with MLflow.
-* Containerized machine learning services using Docker and Kubernetes for reliable and scalable deployments.
-* Collaborated with software engineers, data engineers, and fraud analysts while following code review, Git, and CI/CD best practices.
+Containerized model endpoints with Docker and Kubernetes, using MLflow and human-in-the-loop workflows to raise straight-through processing to 78%.
 
-<br>
+Built forecasting across 50,000 SKU-store pairs, improving WAPE by 22.5% and reducing annual inventory holding costs by $3.1M.
 
-## Machine Learning Engineer — Persistent Systems
+Deployed PEFT/LoRA models with vLLM on AKS, reducing contract-audit turnaround by 70%.
 
-**November 2021 – July 2024 | India**
-
-* Developed machine learning models for credit risk, fraud detection, and customer analytics using Python, Scikit-learn, XGBoost, and LightGBM.
-* Improved lending-risk prediction accuracy by **24%** through model development and optimization.
-* Built Spark and SQL pipelines that processed more than **5 million financial records**, reducing preprocessing time by **30%**.
-* Designed FastAPI REST services for real-time risk scoring in enterprise banking applications.
-* Applied feature engineering, hyperparameter optimization, cross-validation, SHAP, and LIME to improve model precision by **21%**.
-* Automated training and deployment workflows using MLflow, Docker, and Apache Airflow.
-* Created Power BI and Tableau dashboards for fraud trends, customer segmentation, model performance, and business KPIs.
-
----
-
-# 🚀 Featured Projects
+Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Digital Twin Multi-Agent AI Platform
+Digital Twin Multi-Agent AI Platform
 
-Production-ready multi-agent AI platform that automates career guidance, financial planning, personalized learning, and contextual decision-support workflows.
+Production-ready multi-agent platform for career guidance, financial planning, personalized learning, and contextual decision support.
 
-**Key capabilities:**
+Capabilities: LangGraph orchestration, RAG, semantic search, vector retrieval, persistent memory, multi-step reasoning, and secure FastAPI services.
 
-* Multi-agent orchestration with LangGraph
-* Retrieval-Augmented Generation
-* Semantic search and vector databases
-* Persistent user memory
-* Contextual multi-step AI responses
-* Scalable RESTful APIs
+Tech: Python, LangGraph, LangChain, Azure OpenAI, FastAPI, PostgreSQL, React, Docker
 
-**Tech:** Python, LangGraph, LangChain, Azure OpenAI, FastAPI, PostgreSQL, React, Docker
-
-<br>
-
-<a href="https://github.com/shahistatamkeen1/my_digital_twin">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/shahistatamkeen1/my_digital_twin"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Digital Twin repository" /></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🏗️ AI-Powered 3D Point Cloud Quality Assessment
+AI-Powered 3D Point Cloud QA
 
-Computer vision and geometric-analysis platform for automated construction point-cloud inspection and defect detection.
+Computer vision platform for point-cloud registration, geometric deviation analysis, measurement, defect detection, and real-time 3D inspection.
 
-**Key capabilities:**
+Tech: Python, Open3D, Computer Vision, FastAPI, React, Three.js
 
-* Point cloud registration
-* Geometric deviation analysis
-* Automated defect detection
-* Real-time 3D visualization
-* Engineering-model comparison
-* Interactive quality assessment
-
-**Tech:** Python, Open3D, Computer Vision, FastAPI, React, Three.js
-
-<br>
-
-<a href="https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/shahistatamkeen1/3D_Point_Cloud_QA_System"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="3D QA repository" /></a>
+<a href="https://3-d-point-cloud-qa-system.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="3D QA live demo" /></a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Brain Age Prediction Using Deep Learning
+Brain Age Prediction Using Deep Learning
 
-Deep learning framework for predicting biological brain age using MRI-based neuroimaging datasets.
+Published CNN research for predicting biological brain age from MRI neuroimaging datasets through preprocessing, augmentation, feature extraction, training, and evaluation.
 
-**Key capabilities:**
+Tech: Python, TensorFlow, CNN, Deep Learning, Medical Imaging
 
-* MRI image preprocessing
-* Data augmentation
-* CNN-based feature extraction
-* Deep learning model training
-* Model evaluation
-* Biological brain-age estimation
-
-**Tech:** Python, TensorFlow, CNN, Deep Learning, Medical Imaging
-
-<br>
-
-<a href="https://github.com/shahistatamkeen1/AI_for_Brain_Age">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/shahistatamkeen1/AI_for_Brain_Age"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Brain Age repository" /></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 💰 Customer Risk and Loan Prediction
+Customer Risk and Loan Prediction
 
-Machine learning and analytics platform for predicting customer credit risk and loan-approval outcomes.
+Interpretable machine learning and analytics platform for customer credit risk, loan approval, segmentation, and business decision support.
 
-**Key capabilities:**
+Tech: Python, Scikit-learn, SQL, Streamlit, Power BI
 
-* Credit-risk prediction
-* Loan-approval modeling
-* Exploratory data analysis
-* Feature engineering
-* Customer segmentation
-* Interactive business dashboards
-
-**Tech:** Python, Scikit-learn, SQL, Streamlit, Power BI
-
-<br>
-
-<a href="https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/shahistatamkeen1/Banking-Customer-Risk-Loan-Analysis"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Customer Risk repository" /></a>
+<a href="https://banking-customer-risk-loan-analysis-dashboard.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Banking dashboard" /></a>
 
 </td>
 </tr>
 </table>
 
----
+Explore the complete project archive, including cloud monitoring, job tracking, healthcare analytics, automation, NLP, and computer vision work, on my portfolio and GitHub repositories.
 
-# 📖 Publication
+Publication
 
-## AI for Brain Age Prediction Using Deep Learning
+AI for Brain Age Prediction Using Deep Learning
 
-**International Journal of Engineering Research**
+International Journal of Engineering Research (IJER)
 
-Published research exploring deep learning-based brain-age prediction using MRI neuroimaging datasets.
+Published research applying a Convolutional Neural Network pipeline to MRI preprocessing, feature extraction, model training, evaluation, and biological brain-age estimation.
 
-The research presents a Convolutional Neural Network framework for:
+<a href="https://doi.org/10.55248/gengpi.5.0524.1289"><img src="https://img.shields.io/badge/View%20Publication-16A34A?style=for-the-badge&logo=doi&logoColor=white" alt="View publication" /></a>
+<a href="https://github.com/shahistatamkeen1/AI_for_Brain_Age"><img src="https://img.shields.io/badge/Research%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Research repository" /></a>
 
-* MRI image preprocessing
-* Feature extraction
-* Deep learning model training
-* Model evaluation
-* Biological brain-age estimation
+Certifications
 
-<a href="https://github.com/shahistatamkeen1/AI_for_Brain_Age">
-  <img src="https://img.shields.io/badge/Explore%20Research-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Certification-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certification" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals AZ-900" />
+  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Data%20Science-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI and Data Science" />
+  <img src="https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Programming" />
+  <img src="https://img.shields.io/badge/Claude-101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101" />
+  <img src="https://img.shields.io/badge/AI%20Fluency-Framework%20%26%20Foundations-7C3AED?style=for-the-badge" alt="AI Fluency Framework and Foundations" />
+</p>
 
----
+Education
 
-# 🏆 Certifications
+Master of Science in Computer Science
+
+Elmhurst University - Elmhurst, Illinois
+Aug 2024 - May 2026
+
+GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Certification-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahistatamkeen1&show_icons=true&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=C8D8D3&icon_color=F59E0B" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahistatamkeen1&layout=compact&theme=transparent&hide_border=true&title_color=5EEAD4&text_color=C8D8D3" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM-AI%20%26%20Data%20Science-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B%20Institute-CLA%20C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
----
-
-# 🎓 Education
-
-## Master of Science in Computer Science
-
-**Elmhurst University — Elmhurst, Illinois**
-
-August 2024 – May 2026
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shahistatamkeen1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahistatamkeen1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shahistatamkeen1&theme=transparent&hide_border=true&ring=5EEAD4&fire=F59E0B&currStreakLabel=5EEAD4" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahistatamkeen1&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahistatamkeen1&bg_color=transparent&color=C8D8D3&line=5EEAD4&point=F59E0B&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
----
+Let's Build Reliable AI
 
-# 📈 Contribution Activity
+I am interested in AI Engineering, Machine Learning Engineering, Generative AI, Agentic AI, enterprise RAG, and production ML opportunities where reliable systems and measurable outcomes matter.
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahistatamkeen1&theme=tokyo-night&hide_border=true" />
+  <a href="https://www.linkedin.com/in/shahista-tamkeen/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://shahistatamkeen1.github.io/portfolio/"><img src="https://img.shields.io/badge/View%20Portfolio-071F1C?style=for-the-badge&logo=githubpages&logoColor=white" alt="View portfolio" /></a>
+  <a href="./Shahista_AI_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/View%20R%C3%A9sum%C3%A9-F59E0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume" /></a>
+  <a href="mailto:shahistatamkeen76@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 </p>
-
----
-
-# 🎯 Engineering Interests
-
-* Production-ready machine learning systems
-* Fraud detection and financial-risk modeling
-* Graph Neural Networks and graph-based machine learning
-* Enterprise Retrieval-Augmented Generation
-* Agentic and multi-agent AI architectures
-* Distributed data processing with Apache Spark
-* Explainable and responsible artificial intelligence
-* Cloud-native MLOps and model monitoring
-* Scalable AI APIs and microservices
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-  I am interested in opportunities involving Machine Learning Engineering, Generative AI, Applied AI, fraud detection, predictive analytics, and production AI systems.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahista-tamkeen/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://shahistatamkeen1.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:stamkeen0506@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071F1C,48:0F766E,100:F59E0B&height=130&section=footer" alt="Footer" />
 
 </div>
