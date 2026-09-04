@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=270&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20GraphRAG%20%7C%20Production%20ML%20%7C%20Multi-Cloud&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=270&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Enterprise%20RAG%20%7C%20Production%20ML%20%7C%20Multi-Cloud&descAlignY=58&descSize=19"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1100&lines=AI%2FML+Engineer;Production+Machine+Learning+%7C+Generative+AI;RAG+%7C+Hybrid+Search+%7C+GraphRAG;Low-Latency+Inference+%7C+Scalable+Data+Pipelines;Python+%7C+PyTorch+%7C+LangGraph+%7C+AWS+%7C+Azure+%7C+GCP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1100&lines=AI+and+Machine+Learning+Engineer;Architecting+Autonomous+Agentic+AI+Systems;Enterprise+RAG+%7C+Hybrid+Search+%7C+GraphRAG;Low-Latency+Inference+%7C+High-Throughput+Data+Pipelines;Python+%7C+LangGraph+%7C+PyTorch+%7C+AWS+%7C+GCP+%7C+Azure" />
 </p>
 
 <p align="center">
