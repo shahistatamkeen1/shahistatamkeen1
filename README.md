@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=270&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Enterprise%20RAG%20%7C%20Production%20ML%20%7C%20Multi-Cloud&descAlignY=58&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=270&section=header&text=Shahista%20Tamkeen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%26%20GraphRAG%20%7C%20Production%20ML%20%7C%20Multi-Cloud&descAlignY=58&descSize=19"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1100&lines=AI+and+Machine+Learning+Engineer;Architecting+Autonomous+Agentic+AI+Systems;Enterprise+RAG+%7C+Hybrid+Search+%7C+GraphRAG;Low-Latency+Inference+%7C+High-Throughput+Data+Pipelines;Python+%7C+LangGraph+%7C+PyTorch+%7C+AWS+%7C+GCP+%7C+Azure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=1000&color=6EE7F9&center=true&vCenter=true&width=1100&lines=AI%2FML+Engineer;Production+Machine+Learning+%7C+Generative+AI;RAG+%7C+Hybrid+Search+%7C+GraphRAG;Low-Latency+Inference+%7C+Scalable+Data+Pipelines;Python+%7C+PyTorch+%7C+LangGraph+%7C+AWS+%7C+Azure+%7C+GCP" />
 </p>
 
 <p align="center">
@@ -26,25 +26,23 @@
 
 👋 About Me
 
-I am an AI and Machine Learning Engineer with 3+ years of experience architecting autonomous agentic AI systems, enterprise RAG pipelines, and high-throughput production ML models across the BFSI and healthcare sectors.
+I am an AI/ML Engineer with 3+ years of experience building production machine learning and Generative AI systems for financial services, including fraud detection, transaction risk, regulatory compliance, and intelligent document processing.
 
-My work focuses on multi-agent orchestration, hybrid retrieval, GraphRAG, multimodal document intelligence, streaming feature pipelines, low-latency inference, and multi-cloud data platforms using Python, Java, PyTorch, LangGraph, PySpark, FastAPI, Kubernetes, AWS, GCP, and Azure.
+I design low-latency ML inference pipelines, RAG and GraphRAG systems, LLM-powered workflows, and scalable data pipelines using Python, PyTorch, PySpark, Kafka, LangGraph, AWS Bedrock, and cloud-native infrastructure.
 
-I combine advanced AI with strong software and data engineering to build dependable enterprise systems - including solutions that reduced compliance audit cycles from 5 days to 45 minutes and enterprise document turnaround by 82%.
+My hands-on experience includes model serving, LLM fine-tuning, vector and hybrid search, MLOps, and deploying AI applications through FastAPI, Docker, Kubernetes, and cloud platforms.
 
 🧠 Core Expertise
 
-🤖 Autonomous Agentic AI and Multi-Agent Systems
+🤖 LLM-Powered Workflows and Multi-Agent Systems
 
 🔍 Enterprise RAG, Hybrid Search, and GraphRAG
 
 🧠 Generative AI and Large Language Models
 
-📄 Multimodal Document Intelligence and NER
+📄 Intelligent Financial Document Processing
 
 ⚡ Low-Latency ML Inference and FastAPI Services
-
-📈 Time-Series Forecasting and Statistical Optimization
 
 🛡️ Financial Risk and Transaction Intelligence
 
@@ -54,14 +52,14 @@ I combine advanced AI with strong software and data engineering to build dependa
 
 🚀 Docker, Kubernetes, MLflow, and CI/CD
 
-📊 Explainable AI with SHAP and Model Evaluation
+📊 Model Evaluation, Optimization, and Explainable AI
 
 <h1 align="center">🛠️ Technical Stack</h1>
 
 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -72,17 +70,15 @@ Machine Learning and Deep Learning
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EC5B2A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LayoutLMv3-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Temporal%20Fusion%20Transformer-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHAP-059669?style=for-the-badge" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LayoutLMv3-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CNNs-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qwen2--VL-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-0891B2?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-9333EA?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Optuna-16A34A?style=for-the-badge" />
 </p>
 
 Generative AI and LLMs
@@ -91,46 +87,51 @@ Generative AI and LLMs
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-0891B2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphRAG%20%7C%20Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/vLLM-9333EA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DeepEval-0467DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+RAG and Search
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphRAG-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BM25-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hybrid%20Search-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
 Backend and Software Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,git" />
   <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java%20Microservices-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 Data Engineering and Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Beam-2563EB?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis" />
   <img src="https://img.shields.io/badge/Amazon%20Aurora-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white" />
 </p>
 
 Cloud, MLOps, and Deployment
@@ -146,32 +147,23 @@ Cloud, MLOps, and Deployment
   <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge" />
 </p>
 
-Analytics and Visualization
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistical%20Optimization-11557C?style=for-the-badge" />
-</p>
-
 💼 Professional Experience
 
 AI Engineer — Northern Trust
 
 January 2026 – Present | United States
 
-Architected an autonomous compliance audit framework using Python, LangGraph, and AWS Bedrock for institutional fund mandates and SEC disclosures.
+Built Python and LangGraph workflows with AWS Bedrock to support compliance teams in reviewing fund mandates and regulatory disclosures, reducing repetitive manual review effort by approximately 20-25%.
 
-Built a hybrid RAG architecture with pgvector, Amazon Aurora, OpenSearch, and BGE Embeddings, reducing compliance audit cycles from 5 days to 45 minutes.
+Developed a hybrid RAG solution using Aurora PostgreSQL, pgvector, OpenSearch, and BGE embeddings to retrieve policy and compliance information from internal documents, improving relevant search results by approximately 20%.
 
-Developed event-driven serverless ETL pipelines using AWS Glue, Lambda, PySpark, and S3 for portfolio trade logs and regulatory filings.
+Built data pipelines using AWS Glue, Lambda, PySpark, and S3 to process portfolio data and regulatory documents for downstream analytics and AI applications.
 
-Created an agentic financial-analysis system on GCP Vertex AI using AutoGen to extract earnings sentiment and calculate risk metrics.
+Developed an AI workflow using GCP Vertex AI and AutoGen to analyze earnings transcripts, extract sentiment, and surface financial risk indicators for analyst review.
 
-Implemented Neo4j GraphRAG with GCP Vector Search, improving quantitative factor-signal retrieval precision by 34%.
+Built a GraphRAG prototype using Neo4j and vector search to improve retrieval of information related to corporate relationships, holdings, and financial entities.
 
-Engineered Java and Kafka data-processing services that scale to process 5 TB of daily market data.
+Developed Java services and Kafka-based data workflows to integrate ML applications with existing financial systems and support high-volume market-data processing.
 
 <br>
 
@@ -179,21 +171,17 @@ Machine Learning Engineer — Mphasis
 
 November 2021 – July 2024 | India
 
-Engineered Python, SQL, PySpark, Kafka, and Redis streaming pipelines for 10M+ daily transactions.
+Built a real-time transaction-processing pipeline using Python, PySpark, Kafka, and Redis, supporting processing of approximately 500K+ transactions per day for fraud detection and transaction-risk models.
 
-Deployed XGBoost and LightGBM ensembles that reduced false positives from 18% to 6.2% while keeping FastAPI inference latency under 35 ms.
+Exposed ML models through FastAPI services and developed feature-processing and inference pipelines, reducing average prediction latency by approximately 20% for low-latency transaction scoring.
 
-Fine-tuned LayoutLMv3 in PyTorch for multimodal document extraction and PHI/PII redaction with 99.8% precision.
+Developed a financial document-processing solution using PyTorch, LayoutLMv3, and Hugging Face Transformers to extract information and identify sensitive customer data.
 
-Containerized model endpoints with Docker and Kubernetes, using MLflow and human-in-the-loop workflows to raise straight-through processing to 78%.
+Containerized ML services using Docker and Kubernetes and used MLflow to track experiments, model versions, and deployment artifacts.
 
-Built multi-horizon forecasts across 50,000 SKU-store pairs using LightGBM and Temporal Fusion Transformers.
+Built an RAG-based document search application using Hugging Face models, ChromaDB, embeddings, and BM25 reranking to improve access to financial documents and internal knowledge.
 
-Applied SciPy and Optuna to improve WAPE by 22.5% and reduce annual inventory holding costs by $3.1M.
-
-Built enterprise RAG with PyTorch, Hugging Face, ChromaDB, dense embeddings, and BM25 re-ranking.
-
-Deployed PEFT/LoRA models with vLLM on Azure Kubernetes Service, reducing contract-audit turnaround by 70%.
+Fine-tuned open-source language models using PEFT/LoRA and deployed inference services on Azure Kubernetes Service using vLLM for document and contract-review workflows.
 
 🚀 Featured Projects
 
@@ -329,19 +317,11 @@ AI for Brain Age Prediction Using Deep Learning
 
 International Journal of Engineering Research
 
-Published research exploring deep learning-based brain-age prediction using MRI neuroimaging datasets.
+Published research on deep learning-based brain age prediction using MRI neuroimaging datasets.
 
 The research presents a Convolutional Neural Network framework for:
 
-MRI image preprocessing
-
-Feature extraction
-
-Deep learning model training
-
-Model evaluation
-
-Biological brain-age estimation
+MRI image preprocessing, feature extraction, model training, and biological brain age estimation
 
 <a href="https://github.com/shahistatamkeen1/AI_for_Brain_Age">
   <img src="https://img.shields.io/badge/Explore%20Research-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -397,8 +377,6 @@ Low-latency production machine learning systems
 Multimodal document intelligence and information extraction
 
 Financial analysis, transaction intelligence, and risk modeling
-
-Time-series forecasting and statistical optimization
 
 Distributed data processing with PySpark and Kafka
 
